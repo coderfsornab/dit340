@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Calibri;
+    background-color: #acfceb;
+}
+
+h1{
+   font-size: 45px
+      
+
+
+}   
+
+h2{
+    font-size: 30px
+}
+
+h3{
+    font-size: 20px
+}
+
+.dp{
+    width: 250px auto;
+    position: relative;
+    left: 50px;
+    border: 3px solid #73AD21;
+
+}
+
+.perfonalinfo{
+    position: absolute;
+    top: 110px;
+    left: 500px;
+    font-size: 20px
+
+}
+
+.skills{
+    position: absolute;
+    top: 360px; 
+    left: 500px;
+
+
+}
+
+.Education{
+    position: absolute;
+    top: 550px; 
+    left: 500px;
+
+
+}      
+
+.contactme {
+    position: absolute;
+    top: 690px;
+    left: 500px;
+}
+
+.Social{
+    position: absolute;
+    left: 50px;
+}
+
+.Socialicon{
+    height: 30px;
+    width: 30px auto;
+    
+}
+
+.perfonalinfo h2{
+    border-style: solid;
+}
+
+.skills h2{
+    width: 300px;
+    border-style: solid;
+}
+
+.Education h2{
+    width: 300px;
+    border-style: solid;
+}
+
+.contactme h2{
+    width: 300px;
+    border-style: solid;
+}
+
+.Social h2{
+    width: 300px;
+    border-style: solid;
+}
+
+.skills 
+
+/* unvisited link */
+a:link {
+    color: black;
+  }
+
+/* visited link */
+a:visited {
+    color: green;
+  }
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+  }
+
+/* selected link */
+a:active {
+    color: blue;
+  }
+
+
